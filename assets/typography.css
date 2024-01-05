@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(39, 78, 33);
+}
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(255, 255, 255)
+}
+
+.w-80 {
+    margin-top: 10px;
+}
+.graph1{
+    margin: auto;
+    /* align-items: center; */
+    flex-direction: column;
+    margin-top: 100px;
+    width: 80%;
+}
+
+.line{
+    margin-bottom: white 2px;
+}
